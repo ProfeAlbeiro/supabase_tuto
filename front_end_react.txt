@@ -43,7 +43,7 @@
             01. AWS: 
 
                     ⦿   Ir a: https://awsacademy.instructure.com/login/canvas.
-                    ⦿   
+                    ⦿   Escribir usuario y contraseña (Ver archivo Excel: aws / capacitación instructores.xlsx)
 
             02. Dar click a 'cuentas / cursos / módulos / Laboratorio de aprendizaje / Start Lab'
             
@@ -62,6 +62,17 @@
             09. Dar click en 'Configurar almacenamiento / 60 GiB gp2'
             
             10. Dar click en 'Lanzar instancia'
+            
+            11. Dar click en 'Ver todas las instancias'
+            
+            12. Dar click en 'Actualizar instancia'. Esperar que en la columna 'Comprobación de estado : Inicializando' aparezca '2/2 comprobaciones superadas'
+            
+            13. Dar click en 'Conectar / Cliente DE RDP / Descargar archivo de Escritorio Remoto'
+            
+            14. Dar click en 'Obtener contraseña / Cargar el archivo de la clave privada (Contraseña descargada anteriormente) / Descifrar contraseña'
+            
+            15. Abrir el archivo de 'Escritorio Remoto' y 'Copiar la contraseña / Pegar en el inicio de sesión'
+
             
 
 |||\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\|||
