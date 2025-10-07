@@ -1,0 +1,10 @@
+INSERT INTO "gatos" (nombre, raza, edad, precio, descripcion, sexo, estado, url)
+VALUES
+  ('Rocky', 'Maine Coon', 3, 800.00, 'Un gigante gentil y juguetón con un pelaje magnífico.', 'Macho', 'Disponible', 'https://tu_bucket_supabase.storage.link/maine_coon.jpg'),
+  ('Luna', 'Siamés', 2, 750.00, 'Elegante y vocal, con ojos azules penetrantes y mucha personalidad.', 'Hembra', 'Disponible', 'https://tu_bucket_supabase.storage.link/siames.jpg'),
+  ('Princesa', 'Persa', 4, 900.00, 'De temperamento tranquilo y un pelaje largo que requiere cuidado especial.', 'Hembra', 'Disponible', 'https://tu_bucket_supabase.storage.link/persa.jpg'),
+  ('Kira', 'Bengala', 1, 1200.00, 'Activa y curiosa, con un patrón de pelaje exótico que recuerda a un leopardo.', 'Hembra', 'Disponible', 'https://tu_bucket_supabase.storage.link/bengala.jpg'),
+  ('Dobby', 'Sphynx', 2, 1000.00, 'Cariñoso y juguetón, conocido por su piel suave y su necesidad de calor.', 'Macho', 'Disponible', 'https://tu_bucket_supabase.storage.link/sphynx.jpg'),
+  ('Bigotes', 'Británico de Pelo Corto', 3, 700.00, 'Robusto y de carácter dulce, con un pelaje denso y un rostro adorable.', 'Macho', 'Disponible', 'https://tu_bucket_supabase.storage.link/britanico.jpg'),
+  ('Nube', 'Ragdoll', 1, 850.00, 'Dócil y relajado, se derrite en tus brazos como un "muñeco de trapo".', 'Hembra', 'Disponible', 'https://tu_bucket_supabase.storage.link/ragdoll.jpg'),
+  ('Simba', 'Abisinio', 2, 780.00, 'Esbelto y atlético, con un pelaje "ticked" que le da un aspecto salvaje.', 'Macho', 'Disponible', 'https://tu_bucket_supabase.storage.link/abisinio.jpg');
